@@ -1,0 +1,114 @@
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\MyMvcApplication.dll.config
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\MyMvcApplication.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\MyMvcApplication.pdb
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Antlr3.Runtime.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\EntityFramework.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\EntityFramework.SqlServer.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.AspNet.Identity.Core.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Cookies.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Facebook.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Google.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.OAuth.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Twitter.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Newtonsoft.Json.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Owin.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Helpers.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Mvc.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Optimization.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Razor.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.WebPages.Deployment.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.WebPages.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.WebPages.Razor.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\WebGrease.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Helpers.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Mvc.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Optimization.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.Razor.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.WebPages.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.WebPages.Deployment.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Web.WebPages.Razor.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Antlr3.Runtime.pdb
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Newtonsoft.Json.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\EntityFramework.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\EntityFramework.SqlServer.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.AspNet.Identity.Core.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Facebook.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Cookies.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.OAuth.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Google.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.Twitter.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\obj\Debug\MyMvcApplication.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\obj\Debug\MyMvcApplication.pdb
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Net.Http.Formatting.dll
+F:\My Project\MyMvcApplication\MyMvcApplication\bin\System.Net.Http.Formatting.xml
+F:\My Project\MyMvcApplication\MyMvcApplication\obj\Debug\MyMvcApplication.csprojResolveAssemblyReference.cache
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\MyMvcApplication.dll.config
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\MyMvcApplication.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\MyMvcApplication.pdb
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Antlr3.Runtime.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\EntityFramework.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\EntityFramework.SqlServer.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.AspNet.Identity.Core.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Cookies.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Facebook.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Google.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.OAuth.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Twitter.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Newtonsoft.Json.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Owin.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Net.Http.Formatting.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Helpers.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Mvc.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Optimization.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Razor.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.WebPages.Deployment.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.WebPages.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.WebPages.Razor.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\WebGrease.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Net.Http.Formatting.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Helpers.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Mvc.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Optimization.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.Razor.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.WebPages.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.WebPages.Deployment.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\System.Web.WebPages.Razor.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Antlr3.Runtime.pdb
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Newtonsoft.Json.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\EntityFramework.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\EntityFramework.SqlServer.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.AspNet.Identity.Core.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Facebook.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Cookies.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.OAuth.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Google.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.Twitter.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\obj\Debug\MyMvcApplication.csprojResolveAssemblyReference.cache
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\obj\Debug\MyMvcApplication.dll
+F:\My Project\Git Projects\MyMvcApp\MyMvcApplication\obj\Debug\MyMvcApplication.pdb
